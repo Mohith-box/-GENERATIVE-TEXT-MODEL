@@ -78,3 +78,7 @@ The generated text is decoded into human-readable format and printed to the term
 Text generation is one of the most impressive applications of large language models (LLMs). It demonstrates the machine's ability to understand context, predict language structure, and create grammatically coherent content — making it useful across journalism, marketing, education, and entertainment.
 
 This task equips you with practical experience in deploying pretrained transformer models and using language AI responsibly and creatively.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/5aaf736c-f9de-47d9-8efa-bd0b90a1ef99)
